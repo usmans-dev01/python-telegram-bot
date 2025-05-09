@@ -1,0 +1,5 @@
+other = "Bump github/codeql-action from 3.28.16 to 3.28.17"
+[[pull_requests]]
+uid = "1"
+author_uid = "dependabot[bot]"
+closes_threads = []
